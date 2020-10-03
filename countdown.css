@@ -1,0 +1,25 @@
+html {
+  color: red;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.countdown {
+  height: 450px;
+  margin: 0 auto;
+  position: relative;
+  width: 400px;
+  color : red;
+}
+
+.first {
+  border-radius: 50%;
+  height: 296px;
+  left: 52px;
+  position: absolute;
+  width: 296px;
+  text-align: center;
+  top: 52px;
+
+}
+
+
